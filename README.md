@@ -59,11 +59,11 @@ Database : MySQL
 2. Doctor registering on the system:
 ![image](https://user-images.githubusercontent.com/95037531/158549912-dad1ee8e-b6b0-45bb-af4f-eec12d7eeba7.png)
 
-3. Log In Screen:![image](https://user-images.githubusercontent.com/95037531/158550022-e3ec1493-b30e-4e90-b55b-37023ec103fe.png)
+3. Log In Screen:
+![image](https://user-images.githubusercontent.com/95037531/158550022-e3ec1493-b30e-4e90-b55b-37023ec103fe.png)
 
 4. Password Reset Screen:
 ![image](https://user-images.githubusercontent.com/95037531/158550195-286602bc-81d5-4cf1-b06c-862d8632fc4b.png)
-
 
 5. Patient Home Screen:
 ![image](https://user-images.githubusercontent.com/95037531/158550403-71c7f790-bbca-4304-98e8-dbcedeb9fa94.png)
