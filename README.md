@@ -17,9 +17,6 @@ Backend : Node.js, Express
 Database : MySQL
 </pre>
 
-<b>ER Diagram :</b>
-![alt text](https://github.com/hrishikeshathalye/Hosital-Management-System-DBMS/blob/master/Schemas%26ER/myer.png)
-
 
 <b>Patient Side Features :</b>
 
